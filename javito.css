@@ -1,0 +1,31 @@
+.container
+{
+   background-color: aqua;
+   width: 60%;
+   justify-content: center;
+   display: flex;
+   
+ 
+}
+
+.box
+{
+    width: 40%;
+    height: 100px;
+}
+.red
+{
+    background-color: red;
+}
+.purple
+{
+    background-color: purple;
+}
+.green
+{
+    background-color: green;
+}
+.blue
+{
+    background-color: blue;
+}
